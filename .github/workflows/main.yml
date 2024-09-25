@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://danielsuarez-mash:$HF_TOKEN@huggingface.co/spaces/danielsuarez-mash/neural_networks_from_scratch main
+        run: git push https://danielsuarez-mash:$HF_TOKEN@huggingface.co/spaces/danielsuarez-mash/neural_network_from_scratch main
