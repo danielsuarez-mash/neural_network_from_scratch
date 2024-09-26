@@ -1,5 +1,5 @@
 ---
-title: Nn From Scratch
+title: Neural networks from scratch
 emoji: 🐢
 colorFrom: yellow
 colorTo: pink
